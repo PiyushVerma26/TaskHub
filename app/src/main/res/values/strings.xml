@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task_MAnager</string>
+    <string name="floating_button">Floating Button</string>
+    <string name="note_title">Note Title</string>
+    <string name="it_s_a_descriptiom">It\'s a Descriptiom</string>
+    <string name="_1">*</string>
+    <string name="delete">delete</string>
+    <string name="edit_title">Edit Title</string>
+    <string name="confirm_and_submit">Confirm and Submit</string>
+</resources>
